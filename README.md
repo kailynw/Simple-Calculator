@@ -1,2 +1,2 @@
 # Simple-Calculator
-A calculator using class and objects in Java
+A calculator using classes and objects in Java
